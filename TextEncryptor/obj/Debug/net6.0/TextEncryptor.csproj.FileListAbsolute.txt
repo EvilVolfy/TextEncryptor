@@ -1,0 +1,15 @@
+G:\TextEncryptor\TextEncryptor\bin\Debug\net6.0\TextEncryptor.exe
+G:\TextEncryptor\TextEncryptor\bin\Debug\net6.0\TextEncryptor.deps.json
+G:\TextEncryptor\TextEncryptor\bin\Debug\net6.0\TextEncryptor.runtimeconfig.json
+G:\TextEncryptor\TextEncryptor\bin\Debug\net6.0\TextEncryptor.dll
+G:\TextEncryptor\TextEncryptor\bin\Debug\net6.0\TextEncryptor.pdb
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.csproj.AssemblyReference.cache
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.AssemblyInfoInputs.cache
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.AssemblyInfo.cs
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.csproj.CoreCompileInputs.cache
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.dll
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\refint\TextEncryptor.dll
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.pdb
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\TextEncryptor.genruntimeconfig.cache
+G:\TextEncryptor\TextEncryptor\obj\Debug\net6.0\ref\TextEncryptor.dll
